@@ -1,0 +1,7 @@
+{
+  "name": "Nexus shop",
+  "description": "A professional full-stack e-commerce platform with inventory management, Stripe integration, and AI-powered features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
